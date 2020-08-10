@@ -1,0 +1,36 @@
+.Board {
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    width: 400px;
+    height: 400px;
+    font-size: 32px;
+    color: #111;
+    background-color: #394039;
+    border: 5px solid #aaa;
+    text-align: center
+}
+.GameArea {
+	align-items: center;
+	display: block;
+	margin: 10px;
+	height: 300px;
+}
+.ButtonRow {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.Status {
+	width: 90%;
+	height: 20%;
+	background-color: #394039;
+	margin: 8px;
+	padding: 5px;
+	font-size: 20px;
+}
+.Content {
+	font-style : italic;
+	color: #ace6ac;
+	margin: 30px;
+}
